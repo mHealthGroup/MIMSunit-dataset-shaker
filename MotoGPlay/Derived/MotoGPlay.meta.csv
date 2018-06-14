@@ -1,0 +1,15 @@
+FiFoMaxEventCount,0
+FiFoReservedEventCount,0
+MaxDelay,200000
+MinDelay,10000
+MaximumRange,39.24
+Name,3-axis Accelerometer
+Resolution,0.009810001
+ReportingMode,0
+Vendor,Bosch
+Version,1
+Power,0.25
+Type,android.sensor.accelerometer
+WakeUpSensor,false
+Delay1
+

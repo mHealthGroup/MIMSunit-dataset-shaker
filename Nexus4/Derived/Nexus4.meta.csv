@@ -1,0 +1,15 @@
+FiFoMaxEventCount,0
+FiFoReservedEventCount,0
+MaxDelay,0
+MinDelay,5000
+MaximumRange,39.226593
+Name,LGE Accelerometer Sensor
+Resolution,0.0011901855
+ReportingMode,0
+Vendor,InvenSense
+Version,1
+Power,0.5
+Type,android.sensor.accelerometer
+WakeUpSensor,false
+Delay1
+

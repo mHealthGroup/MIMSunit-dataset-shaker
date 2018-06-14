@@ -1,0 +1,17 @@
+FiFoMaxEventCount,10000
+FiFoReservedEventCount,0
+MaxDelay,1000000
+MinDelay,5000
+MaximumRange,19.613297
+Name,MPU6515 Accelerometer
+Resolution,5.950928E-4
+ReportingMode,0
+Vendor,InvenSense
+Version,1
+Power,0.4
+Type,android.sensor.accelerometer
+WakeUpSensor,false
+Delay,0
+DynamicSensor,false
+ID,0
+

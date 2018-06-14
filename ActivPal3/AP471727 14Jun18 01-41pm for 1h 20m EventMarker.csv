@@ -1,0 +1,3 @@
+"Time","StartDataCount (samples)","Duration (samples)","ActivityCode (0=sedentary, 1= standing, 2=stepping, 4= marker)","Value"
+43265.6262540509,96187,21,"5",255
+43265.6275364583,98403,1,"9",254

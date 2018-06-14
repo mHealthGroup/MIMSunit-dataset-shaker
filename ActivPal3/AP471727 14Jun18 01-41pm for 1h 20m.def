@@ -1,0 +1,24 @@
+"DataFileName","C:\Users\Admin\Desktop\MIM shaker testing\New data-6-14-18\AP471727 14Jun18 01-41pm for 1h 20m.datx"
+"SerialNumber","aP431727"
+"Software version","7.2.32 Objectively Quantifying Physical Activity"
+"CompressionFactor",0
+"DataTotalCount",49295
+"PredictedSamples",0
+"Event Total",652
+"Download check",0
+"Data not written",0
+"TimeCorrectionFactor",0
+"SamplingFrequency",10
+"SensorVertical",150
+"SensorHorizontal",1
+"SensorInverted",0
+"MinimumSittingPeriod",10
+"MinimumUprightPeriod",10
+"MaximumActivStepPeriod",0
+"CadenceActivStepDuration",5
+"StandToSitThresholdPercentage",30
+"SitToStandThresholdPercentage",50
+"StepThresholdPercentage",15
+"PeakBand",0
+"StartTime",#2018-06-14 13:41:39#
+"StopTime",#2018-06-14 15:01:49#
